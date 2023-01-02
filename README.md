@@ -11,8 +11,7 @@
 <!-- Start of Introduction -->
 <div align='center'>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1500&color=fefefe&center=true&vCenter=true&multiline=true&width=520&height=60&lines=Hello+%F0%9F%91%8B+I'm+Bia!;%F0%9F%8C%B1+A+CS+student+who+loves+to+code+%2B+design)](https://git.io/typing-svg#gh-dark-mode-only)  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1500&color=7e22ce&center=true&vCenter=true&multiline=true&width=520&height=60&lines=Hello+%F0%9F%91%8B+I'm+Bia!;%F0%9F%8C%B1+A+CS+student+who+loves+to+code+%2B+design)](https://git.io/typing-svg#gh-light-mode-only)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1500&color=9333ea&center=true&vCenter=true&multiline=true&width=520&height=60&lines=Hello+%F0%9F%91%8B+I'm+Bia!;%F0%9F%8C%B1+A+CS+student+who+loves+to+code+%2B+design)](https://git.io/typing-svg)
 </div>
 <!-- End of Introduction -->
 
