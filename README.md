@@ -1,20 +1,18 @@
-<!-- Start of Icon -->
+
 <div align='center'>
   <img
     src='assets/main_icon.gif'
     alt='main icon'
     width='100px'
   />
-</div>
-<!-- End of Icon -->
-
-<!-- Start of Introduction -->
+</div>  
+  
+<!-- Start of Typing SVG -->
 <div align='center'>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1500&color=9333ea&center=true&vCenter=true&multiline=true&width=520&height=60&lines=Hello+%F0%9F%91%8B+I'm+Bia!;%F0%9F%8C%B1+A+CS+student+who+loves+to+code+%2B+design)](https://git.io/typing-svg)
-
+   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1500&color=9333ea&center=true&vCenter=true&multiline=true&width=520&height=60&lines=Hello+%F0%9F%91%8B+I'm+Bia!;%F0%9F%8C%B1+A+CS+student+who+loves+to+code+%2B+design)](https://git.io/typing-svg)
 </div>
-<!-- End of Introduction -->
+<!-- End of Typing SVG -->
 
 <!-- Start of Social Media -->
 <div align='center'>
@@ -25,3 +23,12 @@
 
 </div> <br />
 <!-- End of Social Media -->
+
+<!-- Start of GitHub Stats -->
+<div align='center' style='display: flex; flex-wrap: wrap; justify-content: space-between'>
+
+  <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=brlimarce&theme=dracula&count_private=true&show_icons=true&include_all_commits=true&custom_title=GitHub&nbsp;Stats' alt='stats' style='height: 8rem' />&ensp;
+
+  <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brlimarce&theme=dracula&layout=compact' alt='languages' style='height: 8rem' />
+</div>
+<!-- End of GitHub Stats -->
