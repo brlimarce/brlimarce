@@ -25,12 +25,3 @@
 
 </div> <br />
 <!-- End of Social Media -->
-
-<!-- Start of GitHub Stats -->
-<div align='center' style='display: flex; flex-wrap: wrap; justify-content: space-between'>
-
-  <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=brlimarce&theme=dracula&count_private=true&show_icons=true&include_all_commits=true&custom_title=GitHub&nbsp;Stats' alt='stats' style='height: 9rem' />&ensp;
-
-  <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brlimarce&theme=dracula&layout=compact' alt='languages' style='height: 9rem' />
-</div>
-<!-- End of GitHub Stats --
