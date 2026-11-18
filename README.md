@@ -3,14 +3,15 @@
 <!-- Start of Typing SVG -->
 <div>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans&size=40&duration=2000&pause=800&color=4895EF&multiline=true&width=900&height=100&lines=Hello+%F0%9F%91%8B+I'm+Bia;A+Software+Engineer+and+a+UI%2FUX+Designer+by+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans&size=32&duration=2000&pause=800&color=4895EF&multiline=true&repeat=false&width=800&height=100&lines=Hi+%F0%9F%91%8B+I'm+Bia;A+Software+Engineer+%2B+UI%2FUX+Designer+by+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 </div>
 <!-- End of Typing SVG -->
 
 <!-- Start of Skills -->
 <div>
 
-  ### Skills
+  ### 🌱 What I Work With
+  
   [![My Skills](https://skillicons.dev/icons?i=aws,dart,docker,expressjs,flutter,graphql,java,js,nextjs,nodejs,python,rails,react,ruby,spring,svelte,tailwind,ts)](https://skillicons.dev)
 </div>
 <!-- End of Skills -->
@@ -18,7 +19,7 @@
 <!-- Start of Social Media -->
 <div>
 
-  ### Connect with Me 👋
+  ### ✨ Connect with Me
 
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brlarce/)&ensp;
   [![Website Badge](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://brlarce.com/)&ensp;
